@@ -46,7 +46,7 @@ I am a Lecturer in the School of Computer Science and Information Engineering, H
 # 🎖 Projects
 - todo
 
-# 📖 Working experience and Educations
+# 📖 Working Experience and Educations
 - *2021.09 - now*, Lecturer, School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China. 
 - *2020.01 - 2021.06*, Research Fellow, School of Computer Science, University of St Andrews, UK.
 - *2018.04 - 2019.09*,  Research Associate, Warwick Manufacturing Group (WMG), University of Warwick, UK.

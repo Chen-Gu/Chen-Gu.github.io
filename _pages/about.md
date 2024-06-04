@@ -40,7 +40,7 @@ I am a Lecturer in the School of Computer Science and Information Engineering, H
 </div>
 </div>
 
-- **C. Gu**, X. Weng and D. Hu*, "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks,"  *IEEE Transactions on Vehicular Technology (TVT)*, 2024.
+- **C. Gu**, X. Weng and D. Hu*, "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks,"  _IEEE Transactions on Vehicular Technology (TVT)_, 2024.
 
 
 # 🎖 Honors and Awards

@@ -19,14 +19,14 @@ redirect_from:
 
 I am a Lecturer in the School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China. Before joining the university, I was a Research Fellow in the School of Computer Science at the University of St Andrews, working on the TeamPlay project under the supervison of Dr. Christopher Brown, and a Research Associate in the Warwick Manufacturing Group (WMG) at the University of Warwick, working on the PETRAS project supervised by Prof. Carsten Maple. 
 
-I have a PhD degree from Department of Computer Science at University of Warwick, supervised by Dr. Arshad Jhumka. I also received my BSc in Applied Computing from Northumbria University in the Newcastle Upon Tyne, and MSc in Computer Science and Applications from University of Warwick.
+I have a PhD degree from Department of Computer Science at University of Warwick, supervised by Prof. [Arshad Jhumka](https://eps.leeds.ac.uk/computing/staff/14238/professor-arshad-jhumka). I also received my BSc in Applied Computing from Northumbria University in the Newcastle Upon Tyne, and MSc in Computer Science and Applications from University of Warwick.
 
 <!--  I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 One funding is awarded from the Open Fund of Anhui Province Key Laboratory!
-- *2022.02*: &nbsp;🎉🎉 One paper is accepted titled "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks," in  _IEEE Transactions on Vehicular Technology (TVT)_, 2024!
+- *2024.04*: &nbsp;🎉🎉 One funding is awarded from the Open Fund of Anhui Province Key Laboratory!
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted titled "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks," in  _IEEE Transactions on Vehicular Technology (TVT)_, 2024!
 
 # 📝 Selected Publications
 - **C. Gu**, X. Weng and D. Hu*, "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks,"  _IEEE Transactions on Vehicular Technology (TVT)_, 2024.

@@ -26,8 +26,10 @@ I am a Lecturer in the School of Computer Science and Information Engineering, H
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Publications
+- **C. Gu**, X. Weng and D. Hu*, "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks,"  _IEEE Transactions on Vehicular Technology (TVT)_, 2024.
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,25 +41,22 @@ I am a Lecturer in the School of Computer Science and Information Engineering, H
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
 
-- **C. Gu**, X. Weng and D. Hu*, "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks,"  _IEEE Transactions on Vehicular Technology (TVT)_, 2024.
+# 🎖 Projects
+- todo
 
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
+# 📖 Working experience and Educations
 - *2021.09 - now*, Lecturer, School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China. 
 - *2020.01 - 2021.06*, Research Fellow, School of Computer Science, University of St Andrews, UK.
 - *2018.04 - 2019.09*,  Research Associate, Warwick Manufacturing Group (WMG), University of Warwick, UK.
 - *2014.04 - 2018.04*,  PhD, Department of Computer Science, University of Warwick, UK.
 - *2012.09 - 2013.10*,  Msc, Department of Computer Science, University of Warwick, UK.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-<!-- # 💻 Internships
+ # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->

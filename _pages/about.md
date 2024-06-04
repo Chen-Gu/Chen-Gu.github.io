@@ -17,17 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer in the School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China. Before joining the university, I was a research fellow in the School of Computer Science at the University of St Andrews, working on the TeamPlay project under the supervison of Dr Christopher Brown, and a Research Associate in Warwick Manufacturing Group (WMG) at University of Warwick, working on PETRAS project supervised by Prof. Carsten Maple. I had a PhD degree from Department of Computer Science at University of Warwick, supervised by Dr. Arshad Jhumka. I also received my BSc in Applied Computing from Northumbria University in the Newcastle Upon Tyne, and MSc in Computer Science and Applications from University of Warwick. My research interests include vehicular networks, federated learning, security and privacy.
+I am a Lecturer in the School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China. Before joining the university, I was a Research Fellow in the School of Computer Science at the University of St Andrews, working on the TeamPlay project under the supervison of Dr. Christopher Brown, and a Research Associate in the Warwick Manufacturing Group (WMG) at the University of Warwick, working on the PETRAS project supervised by Prof. Carsten Maple. 
+
+I have a PhD degree from Department of Computer Science at University of Warwick, supervised by Dr. Arshad Jhumka. I also received my BSc in Applied Computing from Northumbria University in the Newcastle Upon Tyne, and MSc in Computer Science and Applications from University of Warwick.
 
 <!--  I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 One funding is awarded from the Open Fund of Anhui Province Key Laboratory!
+- *2022.02*: &nbsp;🎉🎉 One paper is accepted titled "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks," in  _IEEE Transactions on Vehicular Technology (TVT)_, 2024!
 
-# 📝 Publications
+# 📝 Selected Publications
 - **C. Gu**, X. Weng and D. Hu*, "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks,"  _IEEE Transactions on Vehicular Technology (TVT)_, 2024.
+- **C. Gu**, X. Cui, X. Zhu, and D. Hu*, “FL2DP: Privacy-Preserving Federated Learning Via Differential Privacy for Artificial IoT,” _IEEE Transactions on Industrial Informatics (TII)_, 2023.
+- **C. Gu**, X. Cui, M. Li, and D. Hu*, “An Efficient and Privacy-preserving Information Reporting Framework for Traffic Monitoring in Vehicular Networks,” _IEEE Transactions on Vehicular Technology (TVT)_, 72(6): 7900–7913, 2023.
+- **C. Gu**, X. Cui, and D. Hu*, “An Efficient Privacy-Preserving Scheme for Traffic Monitoring Services in Vehicular Networks,” _in Wireless Algorithms, Systems, and Applications (WASA)_, 2022, 3–14.
+- **C. Gu***, M. Bradbury, J. Kirton, and A. Jhumka, “A decision theoretic framework for selecting source location privacy aware routing protocols in wireless sensor networks,” _Future Generation Computer Systems (FGCS)_, 87, 514–526, 2018. 
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -44,7 +50,7 @@ I am a Lecturer in the School of Computer Science and Information Engineering, H
 -->
 
 # 🎖 Projects
-- todo
+- Open Fund of Anhui Province Key Laboratory, 2024-2026.
 
 # 📖 Working Experience and Educations
 - *2021.09 - now*, Lecturer, School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China. 

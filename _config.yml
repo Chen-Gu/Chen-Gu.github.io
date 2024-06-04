@@ -24,9 +24,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chen Gu"
   avatar           : "images/image.png"
-  bio              : "Lecturer at the Hefei University of Technology"
+  bio              : "Chen Gu is a Lecturer at the Hefei University of Technology conducting reseach into vehicular networks, federated learning, security and privacy."
   location         : "Hefei, China"
-  employer         :
+  employer         : "Hefei University of Technology"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=pyrZmqoAAAAJ&hl=en"
   email            : "guchen@hfut.edu.cn"

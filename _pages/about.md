@@ -29,7 +29,7 @@ I have a PhD degree from the [Department of Computer Science](https://warwick.ac
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted titled "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks," in  _IEEE Transactions on Vehicular Technology (TVT)_, 2024 !
 
 # 📝 Selected Publications
-- **C. Gu**, X. Weng and D. Hu*, "A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks,"  _IEEE Transactions on Vehicular Technology (TVT)_, 2024.
+- **C. Gu**, X. Weng and D. Hu*, "[A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks](https://ieeexplore.ieee.org/document/10400865),"  _IEEE Transactions on Vehicular Technology (TVT)_, 73(6): 7630-7643, 2024.
 - **C. Gu**, X. Cui, X. Zhu, and D. Hu*, “[FL2DP: Privacy-Preserving Federated Learning Via Differential Privacy for Artificial IoT](https://ieeexplore.ieee.org/abstract/document/10324410),” _IEEE Transactions on Industrial Informatics (TII)_, 20(4): 5100-5111, 2024.
 - **C. Gu**, X. Cui, M. Li, and D. Hu*, “[An Efficient and Privacy-preserving Information Reporting Framework for Traffic Monitoring in Vehicular Networks](https://ieeexplore.ieee.org/document/10035417),” _IEEE Transactions on Vehicular Technology (TVT)_, 72(6): 7900–7913, 2023.
 - **C. Gu**, X. Cui, and D. Hu*, “An Efficient Privacy-Preserving Scheme for Traffic Monitoring Services in Vehicular Networks,” _in Wireless Algorithms, Systems, and Applications (WASA)_, 3–14, 2022.

@@ -31,8 +31,8 @@ I have a PhD degree from the [Department of Computer Science](https://warwick.ac
 - *2024.02*: &nbsp;🎉🎉 One paper has been accepted by _IEEE Transactions on Vehicular Technology (TVT)_, 2024 !
 
 # 📝 Selected Publications (* corresponding author)
-- Q. Huang, **C. Gu***, Y. Wang, and D. Hu, "SpotAttack: Covering Spots on Surface to Attack LiDAR Based Autonomous Driving Systems,"  _IEEE Internet of Things Journal (IOTJ)_, 2024 (Accepted).
-- **C. Gu**, B. Ma, and D. Hu*, "A Dependable and Efficient Decentralized Trust Management System based on Consortium Blockchain for Intelligent Transportation Systems,"  _IEEE Transactions on Intelligent Transportation Systems (T-ITS)_, 2024 (Accepted).
+- Q. Huang, **C. Gu***, Y. Wang, and D. Hu, "SpotAttack: Covering Spots on Surface to Attack LiDAR Based Autonomous Driving Systems,"  _IEEE Internet of Things Journal (IOTJ)_, 2024. (Accepted)
+- **C. Gu**, B. Ma, and D. Hu*, "A Dependable and Efficient Decentralized Trust Management System based on Consortium Blockchain for Intelligent Transportation Systems,"  _IEEE Transactions on Intelligent Transportation Systems (T-ITS)_, 2024. (Accepted)
 - **C. Gu**, X. Weng, and D. Hu*, "[A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks](https://ieeexplore.ieee.org/document/10400865),"  _IEEE Transactions on Vehicular Technology (TVT)_, 73(6): 7630-7643, 2024.
 - **C. Gu**, X. Cui, X. Zhu, and D. Hu*, “[FL2DP: Privacy-Preserving Federated Learning Via Differential Privacy for Artificial IoT](https://ieeexplore.ieee.org/abstract/document/10324410),” _IEEE Transactions on Industrial Informatics (TII)_, 20(4): 5100-5111, 2024.
 - **C. Gu**, X. Cui, M. Li, and D. Hu*, “[An Efficient and Privacy-preserving Information Reporting Framework for Traffic Monitoring in Vehicular Networks](https://ieeexplore.ieee.org/document/10035417),” _IEEE Transactions on Vehicular Technology (TVT)_, 72(6): 7900–7913, 2023.

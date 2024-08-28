@@ -37,7 +37,7 @@ I have a PhD degree from the [Department of Computer Science](https://warwick.ac
 - **C. Gu**, X. Cui, X. Zhu, and D. Hu*, “[FL2DP: Privacy-Preserving Federated Learning Via Differential Privacy for Artificial IoT](https://ieeexplore.ieee.org/abstract/document/10324410),” _IEEE Transactions on Industrial Informatics (TII)_, 20(4): 5100-5111, 2024.
 - **C. Gu**, X. Cui, M. Li, and D. Hu*, “[An Efficient and Privacy-preserving Information Reporting Framework for Traffic Monitoring in Vehicular Networks](https://ieeexplore.ieee.org/document/10035417),” _IEEE Transactions on Vehicular Technology (TVT)_, 72(6): 7900–7913, 2023.
 <!-- - **C. Gu**, X. Cui, and D. Hu*, “An Efficient Privacy-Preserving Scheme for Traffic Monitoring Services in Vehicular Networks,” _in Wireless Algorithms, Systems, and Applications (WASA)_, 3–14, 2022.
-<!-- - **C. Gu***, M. Bradbury, J. Kirton, and A. Jhumka, “[A decision theoretic framework for selecting source location privacy aware routing protocols in wireless sensor networks](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17317028),” _Future Generation Computer Systems (FGCS)_, 87, 514–526, 2018. 
+<!-- - **C. Gu***, M. Bradbury, J. Kirton, and A. Jhumka, “[A decision theoretic framework for selecting source location privacy aware routing protocols in wireless sensor networks](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17317028),” _Future Generation Computer Systems (FGCS)_, 87, 514–526, 2018. --> 
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>

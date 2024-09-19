@@ -31,13 +31,13 @@ I have a PhD degree from the [Department of Computer Science](https://warwick.ac
 - *2024.02*: &nbsp;🎉🎉 One paper has been accepted by _IEEE Transactions on Vehicular Technology (TVT)_, 2024 !
 
 # 📝 Selected Publications (* corresponding author)
-- Q. Huang, **C. Gu***, Y. Wang, and D. Hu, "SpotAttack: Covering Spots on Surface to Attack LiDAR Based Autonomous Driving Systems,"  _IEEE Internet of Things Journal (IOTJ)_, 2024. (Accepted)
-- **C. Gu**, B. Ma, and D. Hu*, "A Dependable and Efficient Decentralized Trust Management System based on Consortium Blockchain for Intelligent Transportation Systems,"  _IEEE Transactions on Intelligent Transportation Systems (T-ITS)_, 2024. (Accepted)
-- **C. Gu**, X. Weng, and D. Hu*, "[A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks](https://ieeexplore.ieee.org/document/10400865),"  _IEEE Transactions on Vehicular Technology (TVT)_, 73(6): 7630-7643, 2024.
-- **C. Gu**, X. Cui, X. Zhu, and D. Hu*, “[FL2DP: Privacy-Preserving Federated Learning Via Differential Privacy for Artificial IoT](https://ieeexplore.ieee.org/abstract/document/10324410),” _IEEE Transactions on Industrial Informatics (TII)_, 20(4): 5100-5111, 2024.
-- **C. Gu**, X. Cui, M. Li, and D. Hu*, “[An Efficient and Privacy-preserving Information Reporting Framework for Traffic Monitoring in Vehicular Networks](https://ieeexplore.ieee.org/document/10035417),” _IEEE Transactions on Vehicular Technology (TVT)_, 72(6): 7900–7913, 2023.
-<!-- - **C. Gu**, X. Cui, and D. Hu*, “An Efficient Privacy-Preserving Scheme for Traffic Monitoring Services in Vehicular Networks,” _in Wireless Algorithms, Systems, and Applications (WASA)_, 3–14, 2022.
-<!-- - **C. Gu***, M. Bradbury, J. Kirton, and A. Jhumka, “[A decision theoretic framework for selecting source location privacy aware routing protocols in wireless sensor networks](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17317028),” _Future Generation Computer Systems (FGCS)_, 87, 514–526, 2018. --> 
+- Q. Huang, **C. Gu***, Y. Wang, and D. Hu, "[SpotAttack: Covering Spots on Surface to Attack LiDAR Based Autonomous Driving Systems](https://ieeexplore.ieee.org/document/10663299)",  _IEEE Internet of Things Journal (IOTJ)_, 2024.
+- **C. Gu**, B. Ma, and D. Hu*, "[A Dependable and Efficient Decentralized Trust Management System based on Consortium Blockchain for Intelligent Transportation Systems](https://ieeexplore.ieee.org/document/10648633)", _IEEE Transactions on Intelligent Transportation Systems (T-ITS)_, 2024.
+- **C. Gu**, X. Weng, and D. Hu*, "[A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks](https://ieeexplore.ieee.org/document/10400865)",  _IEEE Transactions on Vehicular Technology (TVT)_, 73(6): 7630-7643, 2024.
+- **C. Gu**, X. Cui, X. Zhu, and D. Hu*, “[FL2DP: Privacy-Preserving Federated Learning Via Differential Privacy for Artificial IoT](https://ieeexplore.ieee.org/abstract/document/10324410)”, _IEEE Transactions on Industrial Informatics (TII)_, 20(4): 5100-5111, 2024.
+- **C. Gu**, X. Cui, M. Li, and D. Hu*, “[An Efficient and Privacy-preserving Information Reporting Framework for Traffic Monitoring in Vehicular Networks](https://ieeexplore.ieee.org/document/10035417)”, _IEEE Transactions on Vehicular Technology (TVT)_, 72(6): 7900–7913, 2023.
+<!-- - **C. Gu**, X. Cui, and D. Hu*, “An Efficient Privacy-Preserving Scheme for Traffic Monitoring Services in Vehicular Networks,” _in Wireless Algorithms, Systems, and Applications (WASA)_, 3–14, 2022. -->
+- **C. Gu***, M. Bradbury, J. Kirton, and A. Jhumka, “[A decision theoretic framework for selecting source location privacy aware routing protocols in wireless sensor networks](https://www.sciencedirect.com/science/article/abs/pii/S0167739X17317028)”, _Future Generation Computer Systems (FGCS)_, 87, 514–526, 2018.
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>

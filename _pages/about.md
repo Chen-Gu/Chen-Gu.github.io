@@ -32,7 +32,7 @@ I have a PhD degree from the [Department of Computer Science](https://warwick.ac
 - *2024.02*: &nbsp;🎉🎉 One paper has been accepted by _IEEE Transactions on Vehicular Technology (TVT)_, 2024 !
 
 # 📝 Selected Publications (* corresponding author)
-- **C. Gu***, K. Zhu, and D. Hu, "[B$^2$PATCH: Designing Adversarial Patches to Manipulate Bounding Box Perception in Vehicular Attacks](https://ieeexplore.ieee.org/document/10663299)",  _IEEE Internet of Things Journal (IOTJ)_, 2025.
+- **C. Gu**, K. Zhu, and D. Hu, "[B$^2$PATCH: Designing Adversarial Patches to Manipulate Bounding Box Perception in Vehicular Attacks](https://ieeexplore.ieee.org/document/10663299)",  _IEEE Internet of Things Journal (IOTJ)_, 2025.
 - Q. Huang, **C. Gu***, Y. Wang, and D. Hu, "[SpotAttack: Covering Spots on Surface to Attack LiDAR Based Autonomous Driving Systems](https://ieeexplore.ieee.org/document/10663299)",  _IEEE Internet of Things Journal (IOTJ)_, 2024.
 - **C. Gu**, B. Ma, and D. Hu*, "[A Dependable and Efficient Decentralized Trust Management System based on Consortium Blockchain for Intelligent Transportation Systems](https://ieeexplore.ieee.org/document/10648633)", _IEEE Transactions on Intelligent Transportation Systems (T-ITS)_, 2024.
 - **C. Gu**, X. Weng, and D. Hu*, "[A Decision Theoretic Framework for Message Prioritization via Machine Learning Algorithm in Vehicular Networks](https://ieeexplore.ieee.org/document/10400865)",  _IEEE Transactions on Vehicular Technology (TVT)_, 73(6): 7630-7643, 2024.

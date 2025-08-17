@@ -25,11 +25,11 @@ I have a PhD degree from the [Department of Computer Science](https://warwick.ac
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Invited to serve as a TPC Member (TPC) for ICA3PP 2025 （CCF Rank-C conference） !
 - *2025.06*: &nbsp;🎉🎉 One paper has been accepted by _IEEE Internet of Things Journal (IOTJ)_, 2025 !
 - *2024.08*: &nbsp;🎉🎉 One paper has been accepted by _IEEE Internet of Things Journal (IOTJ)_, 2024 !
 - *2024.08*: &nbsp;🎉🎉 One paper has been accepted by _IEEE Transactions on Intelligent Transportation Systems (T-ITS)_, 2024 !
 - *2024.04*: &nbsp;🎉🎉 One funding has been awarded from the Open Fund of Anhui Province Key Laboratory !
-- *2024.02*: &nbsp;🎉🎉 One paper has been accepted by _IEEE Transactions on Vehicular Technology (TVT)_, 2024 !
 
 # 📝 Selected Publications (* corresponding author)
 - **C. Gu**, K. Zhu, and D. Hu, "[B$^2$PATCH: Designing Adversarial Patches to Manipulate Bounding Box Perception in Vehicular Attacks](https://ieeexplore.ieee.org/document/11045066)",  _IEEE Internet of Things Journal (IOTJ)_, 2025.
